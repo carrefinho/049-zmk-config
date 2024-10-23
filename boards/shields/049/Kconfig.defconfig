@@ -1,0 +1,6 @@
+if SHIELD_049
+
+config ZMK_KEYBOARD_NAME
+   default "049"
+
+endif
